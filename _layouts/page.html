@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+  <script src="/js/d3.v4.min.js"></script>
+  <script src="/js/moment.js"></script>
+  <script src="/js/common.js"></script>
+
+  <link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">
+  <header class="post-header">
+    {% if page.title == 'home' %}
+      <h1 class="post-title"></h1>
+    {% else %}
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
