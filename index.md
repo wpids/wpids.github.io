@@ -48,20 +48,12 @@ title: home
 </style>
 
 <h2 class="class-header">
-    Webware
-    <span class="small">cs4241</span>
+    WPI Data Science
+    <span class="small">wpids</span>
 </h2>
 
-Webware (CS-4241)
-
-Term A -- 2017
-
-Location<br>
-Fuller Lower<br>
-M/R 12:00-1:50pm
+Welcome to WPI Data Science
 
 ### Announcements
 
-- wed-08-30: If you have questions on assignments, missing GitHub invites, or anything else-- please use Slack and public channels! Otherwise the instructor gets [ddos'd](https://en.wikipedia.org/wiki/Denial-of-service_attack).
-
-- thu-08-24: New? [Check out init](/init/) to get started.
+- Check out the [WPI DS Minor](minor.md)
