@@ -1,6 +1,6 @@
 ---
 layout: page
-title: minor
+title: WPI Data Science Minor
 permalink: /minor/
 ---
 
