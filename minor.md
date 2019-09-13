@@ -4,7 +4,7 @@ title: WPI Data Science Minor
 permalink: /minor/
 ---
 
-[Lane Harrison](http://web.cs.wpi.edu/~ltharrison/) is serving as the DS Minor Advisor for the 17-18 school year.
+[Lane Harrison](http://web.cs.wpi.edu/~ltharrison/) is serving as the DS Minor Advisor for the 19-20 school year.
 
 If you're interested in a DS Minor, or in the process of completing one, please make sure to closely review the material and steps below.
 
