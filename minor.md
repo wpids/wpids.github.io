@@ -4,7 +4,7 @@ title: WPI Data Science Minor
 permalink: /minor/
 ---
 
-**NEW** Fast Mode: If you're trying to meet the Oct. 11 deadline and need a review/signature, please email your forms as a PDF to Prof. Harrison with any questions you might have. You may also schedule meetings, but this "online" option may save time around this deadline.
+**NEW September 2019** Fast Mode: If you're trying to meet the Oct. 11 deadline and need a review/signature, please email your forms as a PDF to Prof. Harrison with any questions you might have. You may also schedule meetings, but this "online" option may save time around this deadline.
 
 [Lane Harrison](http://web.cs.wpi.edu/~ltharrison/) is serving as the DS Minor Advisor for the 19-20 school year.
 
